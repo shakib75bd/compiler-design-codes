@@ -4,7 +4,7 @@ This repository contains various Yacc and Lex-based programs for parsing and lex
 
 ## Table of Contents
 
-![List of task](./Screenshot 2025-04-28 at 3.12.49 AM.png)
+![List of task](./screenshot.png)
 
 ---
 
